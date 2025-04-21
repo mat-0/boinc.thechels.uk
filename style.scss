@@ -21,8 +21,8 @@ html {
 
 $background: #f5f4f4;
 $primary: #04100d;
-$secondary: #005ca3;
-$links: #295147;
+$secondary: #3c4b57;
+$links: #005ca3;
 $accent: #cec452;
 $code: #c0deff;
 $font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
@@ -166,10 +166,10 @@ main:focus {
     height: 72px;
     width: 72px;
     margin-top: 0;
-    background: url("images/me72.png") no-repeat;
+    background: url("images/thechels.png") no-repeat;
 
     &:hover {
-        background: url("images/me72-hover.png") no-repeat;
+        background: url("images/thechels-dark.png") no-repeat;
         transition: all 2s ease-in-out 0.5s;
     }
 }
