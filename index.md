@@ -91,8 +91,7 @@ names within the WCG project and the default run-times will vary from 2 to 10 ho
 
 #### Troubleshooting
 
-There are several other issues you may want to know in advance - just ask me at [@sidcelery](https://x.com/sidcelery) on
-X/Twitter
+There are several other issues you may want to know in advance - just ask [@sidcelery](https://x.com/sidcelery) on X/Twitter
 
 If there's one issue I'd bring up first it's that the constant processing can find the weak spots in a flaky or
 memory-constrained machine. You should have a minimum 1Gb RAM for a single-core machine, 2Gb RAM on a dual-core machine
