@@ -1,4 +1,6 @@
 
+# Boinc
+
 BOINC is a platform that allows computers all round the world to contribute their spare computing capacity to run
 distributed applications. Several of those involved with [TheChels.org](http://thechels.net/tag/thechels/) contribute
 their computers in such a way.
