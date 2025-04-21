@@ -27,10 +27,29 @@
     </head>
 
     <body>
-        <div class="container">
-            <h1>{{ page.title }}</h1>
-            {{ content }}
-        </div>
+        <div id="outer-wrapper">
+            <div id="wrapper">
+                <header id="header">
+                    <ul class="skip-link-ul">
+                        <li>
+                            <a href="#main" class="skip-link">Skip to main content</a>
+                        </li>
+                    </ul>
+                    <div class="blog-title">
+                        BOINC
+                    </div>
+                    <div class="blog-image"></div>
+                    <p class="blog-slogan">
+                        // One Step Beyond.
+                    </p>
+
+
+                    </nav>
+                </header>
+                <div id="main" class="content">
+                    <h1 class="post-title">BOINC @ TheChels</h1>
+                    {{ content }}
+                </div>
     </body>
 
 </html>
