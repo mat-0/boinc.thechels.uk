@@ -1,6 +1,6 @@
 ---
 title: BOINC
-layout: Page
+layout: page
 
 ---
 
